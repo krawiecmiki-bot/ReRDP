@@ -1,53 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">ReRDP</title>
-  <desc id="desc">A blue desktop monitor with a remote desktop icon</desc>
-  <defs>
-    <linearGradient id="bg" x1="76" y1="54" x2="430" y2="458" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#50A8FF"/>
-      <stop offset="1" stop-color="#2457D6"/>
-    </linearGradient>
-    <linearGradient id="screen" x1="150" y1="135" x2="362" y2="326" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#F7FBFF"/>
-      <stop offset="1" stop-color="#DCEAFF"/>
-    </linearGradient>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#10245C" flood-opacity="0.28"/>
-    </filter>
-  </defs>
-
-  <rect x="26" y="26" width="460" height="460" rx="112" fill="url(#bg)"/>
-  <rect x="54" y="54" width="404" height="404" rx="92" fill="none" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3"/>
-
-  <g filter="url(#shadow)">
-    <rect x="112" y="116" width="288" height="216" rx="28" fill="#173D96" opacity="0.24"/>
-    <rect x="112" y="106" width="288" height="216" rx="28" fill="#FFFFFF"/>
-    <rect x="128" y="122" width="256" height="184" rx="16" fill="url(#screen)"/>
-
-    <rect x="128" y="122" width="256" height="32" rx="16" fill="#D8E7FA"/>
-    <rect x="128" y="138" width="256" height="16" fill="#D8E7FA"/>
-    <circle cx="150" cy="138" r="6" fill="#FF6B6B"/>
-    <circle cx="168" cy="138" r="6" fill="#FFD166"/>
-    <circle cx="186" cy="138" r="6" fill="#58D68D"/>
-
-    <g fill="#2457D6">
-      <rect x="158" y="176" width="72" height="12" rx="6" opacity="0.42"/>
-      <rect x="158" y="200" width="196" height="12" rx="6" opacity="0.18"/>
-      <rect x="158" y="224" width="156" height="12" rx="6" opacity="0.18"/>
-      <rect x="158" y="248" width="178" height="12" rx="6" opacity="0.18"/>
-    </g>
-
-    <rect x="280" y="174" width="74" height="102" rx="12" fill="#E5F0FF"/>
-    <circle cx="317" cy="205" r="18" fill="#68A9FF"/>
-    <path d="M291 250c5-19 16-29 26-29s21 10 26 29H291Z" fill="#68A9FF"/>
-
-    <rect x="232" y="322" width="48" height="44" rx="8" fill="#FFFFFF"/>
-    <rect x="194" y="354" width="124" height="18" rx="9" fill="#FFFFFF"/>
-  </g>
-
-  <g transform="translate(346 324)">
-    <circle cx="46" cy="46" r="54" fill="#FFFFFF" stroke="#2457D6" stroke-width="8"/>
-    <circle cx="46" cy="46" r="41" fill="#2457D6"/>
-    <path d="M46 18a28 28 0 1 0 28 28H46V18Z" fill="#63C8FF"/>
-    <path d="M53 25v29h29A29 29 0 0 0 53 25Z" fill="#FFFFFF"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#241f31"/>
+  <rect x="18" y="30" width="62" height="46" rx="8" fill="#3d3846" stroke="#9141ac" stroke-width="4"/>
+  <rect x="48" y="52" width="62" height="46" rx="8" fill="#1e1e2e" stroke="#62a0ea" stroke-width="4"/>
+  <circle cx="60" cy="63" r="3" fill="#62a0ea"/><circle cx="70" cy="63" r="3" fill="#62a0ea"/>
 </svg>
