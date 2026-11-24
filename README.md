@@ -16,7 +16,7 @@
 
 
 
- ## Cordial is not yet supported by revolution, please wait for a update, for now its only possible to run one client using [Sober](https://github.com/vinegarhq/sober)
+ ## Cordial is not yet supported by Revolution Macro, please wait for an update, at the moment, it is only possible to run one client using [Sober](https://github.com/vinegarhq/sober)
 
 
 
