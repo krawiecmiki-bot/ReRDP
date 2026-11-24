@@ -35,7 +35,8 @@ Programs with privileged or device-level access can act outside this boundary. T
 relative mouse capture for every game, so some games may still have inconsistent mouse behavior.
 
 
-
+!                           
+                             ReRDP is 100% free, open-source software. It may be used for any purpose, with the exception of commercial or unlawful use.
 ## Features
 
 - Create, launch, stop, configure, and delete managed Linux desktop sessions.
@@ -145,3 +146,5 @@ python3 -m unittest discover -s tests
 
 The suite does not create system accounts or install packages. The integration, installer, and GUI smoke tests change
 system state and should only be run on a disposable machine after reviewing their safeguards in the test files.
+
+RDP is 100% free, open-source software. It may be used for any purpose, with the exception of commercial or unlawful use.
