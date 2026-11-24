@@ -12,9 +12,7 @@
 
 [Features](#features) · [Requirements](#requirements) · [Installation](#installation) · [Usage](#usage) · [Contributing](#contributing)
 
-<p align="center">
-  <img src="data/org.rerdp.ReRdp.svg" alt="ReRDP app icon" width="112">
-</p>
+
 
 
 
@@ -26,9 +24,7 @@
   <strong>Version 0.4.0</strong> · Fedora recommended · MATE and Xfce · PolyForm Noncommercial License 1.0.0
 </p>
 
-<p align="center">
-  <img src="docs/images/rerdp-beta-1-main.png" alt="ReRDP Beta 1 session list" width="650">
-</p>
+
 
 ReRDP creates and manages local Linux user accounts, then launches a separate graphical desktop for each account in a
 TigerVNC viewer window. It is not a virtual machine. Your normal GNOME desktop remains available while the session runs.
@@ -38,11 +34,7 @@ input sent to one session's display stays in that display, isolated from the hos
 Programs with privileged or device-level access can act outside this boundary. TigerVNC also does not provide raw
 relative mouse capture for every game, so some games may still have inconsistent mouse behavior.
 
-## Screenshots
 
-<p align="center">
-  <img src="docs/images/rerdp-theme-picker.png" alt="ReRDP dark gradient theme picker" width="240">
-</p>
 
 ## Features
 
