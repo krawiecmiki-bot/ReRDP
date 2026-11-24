@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](#requirements)
 [![Status](https://img.shields.io/badge/status-Active-success.svg)](#overview)
 
-[Features](#features) · [Requirements](#requirements) · [Installation](#installation) · [Usage](#usage) · [Contributing](#contributing)
+[Features](#features) · [Requirements](#requirements) · [Installation](#Downloadandinstall) · [Usage](#UsingReRDP) · [License and other](#License)
 
 
 
