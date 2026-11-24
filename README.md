@@ -16,6 +16,12 @@
 
 
 
+ ## Cordial is not yet supported by revolution, please wait for a update, for now its only possible to run one client using sober. 
+
+
+
+
+
 <p align="center">
   Independent Linux desktop sessions, each running in its own window and local account.
 </p>
