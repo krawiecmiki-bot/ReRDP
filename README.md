@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/license-Other-blue.svg)](./LICENSE.md)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](#requirements)
-[![Status](https://img.shields.io/badge/status-Active-success.svg)](#overview)
+[![Status](https://img.shields.io/badge/status-Active-success.svg)](#Releases)
 
 [Features](#features) · [Requirements](#requirements) · [Installation](#Download-and-install) · [Usage](#Using-ReRDP) · [License and other](#License)
 
