@@ -17,7 +17,8 @@
 
 
  ## Cordial is not yet supported by Revolution Macro, please wait for an update, at the moment, it is only possible to run one client using [Sober](https://github.com/vinegarhq/sober)
-
+ ## ReRDP has not been tested on Niri, Hyprland, Sway or MangoWC, so compatibility is not guaranteed. For now, using a desktop environment is recommended. Support for window managers will be added in a future release
+ (probally in V1.0 release).
 
 
 
